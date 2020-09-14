@@ -1,4 +1,4 @@
-![Hero Image](hero.jpg)
+![Hero Image](https://raw.githubusercontent.com/Marco-Pagani/Marco-Pagani/master/hero.jpg)
 
 
 I have a creative eye and a passion for programming. I'm always learning new things and trying to become a better developer, and you can check out a lot of that work here.
